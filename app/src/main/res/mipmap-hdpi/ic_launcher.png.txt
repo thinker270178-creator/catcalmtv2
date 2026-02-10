@@ -1,0 +1,2 @@
+# Placeholder - Replace with actual 72x72 icon
+# For now, the adaptive icon will be used
